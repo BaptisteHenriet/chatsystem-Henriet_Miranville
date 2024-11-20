@@ -1,7 +1,0 @@
-group: SC1  # replace with your own group (A1, A2, B1, B2, C1, SC1)
-names:  # Replace with your own names (lastname first)
-  - MIRANVILLE Florent
-  - HENRIET Baptiste
-emails:  # Replace with your own INSA email address
-  - miranvil@insa-toulouse.fr
-  - henriet@insa-toulouse.fr
